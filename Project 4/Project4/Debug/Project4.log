@@ -1,0 +1,19 @@
+﻿  Genome.cpp
+c:\cs32\project4\project4\genome.cpp(102): warning C4018: '>=': signed/unsigned mismatch
+  GenomeMatcher.cpp
+c:\cs32\project4\project4\genomematcher.cpp(62): warning C4018: '<=': signed/unsigned mismatch
+c:\cs32\project4\project4\genomematcher.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project4\project4\genomematcher.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project4\project4\trie.h(138): warning C4018: '<': signed/unsigned mismatch
+  c:\cs32\project4\project4\trie.h(137): note: while compiling class template member function 'bool Trie<GenomeMatcherImpl::SeqFrag>::isChild(const Trie<GenomeMatcherImpl::SeqFrag>::Node *,const char,Trie<GenomeMatcherImpl::SeqFrag>::Node *&) const'
+  c:\cs32\project4\project4\trie.h(79): note: see reference to function template instantiation 'bool Trie<GenomeMatcherImpl::SeqFrag>::isChild(const Trie<GenomeMatcherImpl::SeqFrag>::Node *,const char,Trie<GenomeMatcherImpl::SeqFrag>::Node *&) const' being compiled
+  c:\cs32\project4\project4\trie.h(45): note: while compiling class template member function 'Trie<GenomeMatcherImpl::SeqFrag>::Trie(void)'
+  c:\cs32\project4\project4\genomematcher.cpp(52): note: see reference to function template instantiation 'Trie<GenomeMatcherImpl::SeqFrag>::Trie(void)' being compiled
+  c:\cs32\project4\project4\genomematcher.cpp(22): note: see reference to class template instantiation 'Trie<GenomeMatcherImpl::SeqFrag>' being compiled
+  genometester.cpp
+  main.cpp
+c:\cs32\project4\project4\main.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\project4\project4\main.cpp(137): warning C4018: '>': signed/unsigned mismatch
+c:\cs32\project4\project4\main.cpp(191): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project4.vcxproj -> C:\CS32\Project4\Debug\Project4.exe
