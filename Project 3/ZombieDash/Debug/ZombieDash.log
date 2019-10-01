@@ -1,0 +1,6 @@
+﻿  Actor.cpp
+c:\zombiedash\zombiedash\actor.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\zombiedash\zombiedash\actor.cpp(445): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\zombiedash\zombiedash\actor.cpp(791): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zombiedash\zombiedash\actor.cpp(805): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ZombieDash.vcxproj -> C:\ZombieDash\Debug\ZombieDash.exe
